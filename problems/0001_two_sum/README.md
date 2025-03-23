@@ -45,3 +45,5 @@ Output: [0,1]
 ### Complexity Analysis
 - Time Complexity: O(n) - we traverse the array once
 - Space Complexity: O(n) - we store at most n elements in our hash table 
+
+![Test Case](image.png)
